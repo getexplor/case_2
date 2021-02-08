@@ -1,0 +1,43 @@
+D:\Opsigo\Case 2\Case 2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Opsigo\Case 2\Case 2\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Opsigo\Case 2\Case 2\bin\Debug\netcoreapp3.1\Case 2.exe
+D:\Opsigo\Case 2\Case 2\bin\Debug\netcoreapp3.1\Case 2.deps.json
+D:\Opsigo\Case 2\Case 2\bin\Debug\netcoreapp3.1\Case 2.runtimeconfig.json
+D:\Opsigo\Case 2\Case 2\bin\Debug\netcoreapp3.1\Case 2.runtimeconfig.dev.json
+D:\Opsigo\Case 2\Case 2\bin\Debug\netcoreapp3.1\Case 2.dll
+D:\Opsigo\Case 2\Case 2\bin\Debug\netcoreapp3.1\Case 2.pdb
+D:\Opsigo\Case 2\Case 2\bin\Debug\netcoreapp3.1\Case 2.Views.dll
+D:\Opsigo\Case 2\Case 2\bin\Debug\netcoreapp3.1\Case 2.Views.pdb
+D:\Opsigo\Case 2\Case 2\obj\Debug\netcoreapp3.1\Case 2.csprojAssemblyReference.cache
+D:\Opsigo\Case 2\Case 2\obj\Debug\netcoreapp3.1\Case 2.AssemblyInfoInputs.cache
+D:\Opsigo\Case 2\Case 2\obj\Debug\netcoreapp3.1\Case 2.AssemblyInfo.cs
+D:\Opsigo\Case 2\Case 2\obj\Debug\netcoreapp3.1\Case 2.csproj.CoreCompileInputs.cache
+D:\Opsigo\Case 2\Case 2\obj\Debug\netcoreapp3.1\Case 2.MvcApplicationPartsAssemblyInfo.cache
+D:\Opsigo\Case 2\Case 2\obj\Debug\netcoreapp3.1\Case 2.RazorAssemblyInfo.cache
+D:\Opsigo\Case 2\Case 2\obj\Debug\netcoreapp3.1\Case 2.RazorAssemblyInfo.cs
+D:\Opsigo\Case 2\Case 2\obj\Debug\netcoreapp3.1\staticwebassets\Case 2.StaticWebAssets.Manifest.cache
+D:\Opsigo\Case 2\Case 2\obj\Debug\netcoreapp3.1\staticwebassets\Case 2.StaticWebAssets.xml
+D:\Opsigo\Case 2\Case 2\obj\Debug\netcoreapp3.1\scopedcss\bundle\Case 2.styles.css
+D:\Opsigo\Case 2\Case 2\obj\Debug\netcoreapp3.1\Case 2.TagHelpers.input.cache
+D:\Opsigo\Case 2\Case 2\obj\Debug\netcoreapp3.1\Case 2.TagHelpers.output.cache
+D:\Opsigo\Case 2\Case 2\obj\Debug\netcoreapp3.1\Case 2.RazorCoreGenerate.cache
+D:\Opsigo\Case 2\Case 2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Opsigo\Case 2\Case 2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Opsigo\Case 2\Case 2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Opsigo\Case 2\Case 2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Opsigo\Case 2\Case 2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Opsigo\Case 2\Case 2\obj\Debug\netcoreapp3.1\Case 2.RazorTargetAssemblyInfo.cache
+D:\Opsigo\Case 2\Case 2\obj\Debug\netcoreapp3.1\Case 2.RazorTargetAssemblyInfo.cs
+D:\Opsigo\Case 2\Case 2\obj\Debug\netcoreapp3.1\Case 2.Views.pdb
+D:\Opsigo\Case 2\Case 2\obj\Debug\netcoreapp3.1\Case 2.dll
+D:\Opsigo\Case 2\Case 2\obj\Debug\netcoreapp3.1\Case 2.pdb
+D:\Opsigo\Case 2\Case 2\obj\Debug\netcoreapp3.1\Case 2.genruntimeconfig.cache
+D:\Opsigo\Case 2\Case 2\obj\Debug\netcoreapp3.1\Case 2.csproj.CopyComplete
+D:\Opsigo\Case 2\Case 2\bin\Debug\netcoreapp3.1\Octokit.dll
+D:\Opsigo\Case 2\Case 2\bin\Debug\netcoreapp3.1\AspNet.Security.OAuth.GitHub.dll
+D:\Opsigo\Case 2\Case 2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Opsigo\Case 2\Case 2\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\Opsigo\Case 2\Case 2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Opsigo\Case 2\Case 2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Opsigo\Case 2\Case 2\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Index.cshtml.g.cs
+D:\Opsigo\Case 2\Case 2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Issue.cshtml.g.cs

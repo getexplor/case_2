@@ -1,0 +1,78 @@
+﻿@{    
+    ViewData["Title"] = "Repository Issue";
+}
+
+<h1 class="h3 mb-2 text-gray-800">Repository Issue</h1>
+
+<div class="card shadow mb-4" id="app-issue">
+    <div class="card-header py-3">
+        <h6 class="m-0 font-weight-bold text-primary">DataTables Example</h6>
+    </div>
+    <div class="card-body">
+        <div class="table-responsive">
+            <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th>No</th>
+                        <th>Title</th>
+                        <th>Issue</th>
+                    </tr>
+                </thead>
+                <tfoot>
+                    <tr>
+                        <th>No</th>
+                        <th>Title</th>
+                        <th>Issue</th>
+                    </tr>
+                </tfoot>
+                <tbody>
+                    <tr v-for="item, iter in issue">
+                        <td>{{iter + 1}}</td>
+                        <td>{{item.title}}</td>
+                        <td>{{item.body}}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+
+<script type="text/javascript">
+
+    var url = window.location.pathname;
+    var name = url.substring(url.lastIndexOf('/') + 1);
+
+    new Vue({
+        el: "#app-issue",
+        data() {
+            return {
+                issue: [
+                    {
+                        number: "",
+                        title: "",
+                        body: "",
+                        comments_url: ""
+                    }
+                ]
+            }
+        },
+        mounted() {
+            this.getData();
+        },
+        methods: {
+            getData() {
+
+                axios.get("/api/issue/" + name).then(response => {
+                    this.issue = response.data;
+                    console.log(issue);
+                }).catch(error => {
+                    console.log(error);
+                });
+            }
+        }
+    })
+</script>
+
+}
