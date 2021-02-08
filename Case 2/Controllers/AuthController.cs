@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Case_2.Controllers
@@ -13,9 +14,10 @@ namespace Case_2.Controllers
             return View();
         }
 
-        public IActionResult Login()
+        [HttpGet]
+        public IActionResult Login(string returnUrl = "/")
         {
-            return View();
+            return Challenge(new AuthenticationProperties() { RedirectUri = returnUrl });
         }
     }
 }
